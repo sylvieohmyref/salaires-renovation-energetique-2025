@@ -1,5 +1,5 @@
 # Salaires des métiers de la rénovation énergétique en 2025
-Synthèse de l'étude Briq 2025 sur les salaires des métiers de la rénovation énergétique en France.
+Synthèse de l'étude annuelle Briq 2025 sur les salaires des métiers de la rénovation énergétique en France.
 
 Cette page présente une synthèse de l'étude publiée par Briq sur les salaires des métiers de la rénovation énergétique et de la transition énergétique en France réalisée en juin 2025.
 
@@ -19,6 +19,16 @@ Exemples de métiers concernés :
 - technicien en rénovation énergétique
 - conducteur de travaux
 
+## Contenu de ce repository
+
+Ce repository présente une synthèse publique de l'étude Briq sur les salaires des métiers de la rénovation énergétique en France.
+
+Objectif :
+
+- mieux comprendre les métiers du secteur
+- analyser les rémunérations observées
+- présenter les opportunités de carrière liées à la transition énergétique
+  
 ## Source principale
 
 Étude complète :
