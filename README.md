@@ -12,7 +12,8 @@ La transition énergétique crée une forte demande de professionnels qualifiés
 L'étude Briq analyse les rémunérations observées dans plusieurs métiers de la rénovation énergétique à partir d'offres d'emploi en France.
 
 Exemples de métiers concernés :
-- auditeur énergétique
+- plombier chauffagiste
+- électricien photovoltaïque
 - chef de projet rénovation énergétique
 - conseiller en rénovation énergétique
 - technicien en rénovation énergétique
