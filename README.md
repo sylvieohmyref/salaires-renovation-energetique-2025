@@ -1,3 +1,6 @@
+![Étude Briq salaires rénovation énergétique](Briq enquete salaires 2025.jpg)
+
+
 # Salaires des métiers de la rénovation énergétique en 2025
 Synthèse de l'étude annuelle Briq 2025 sur les salaires des métiers de la rénovation énergétique en France.
 
